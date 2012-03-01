@@ -1,6 +1,7 @@
 {
-  "author": "",
+  "author": "James R. Carr <james.r.carr@gmail.com>",
   "name": "es-spike",
+  "description": "A quick spike of node.js+mongodb+elasticsearch",
   "version": "0.0.0",
   "repository": {
     "url": ""
@@ -9,10 +10,10 @@
     "node": "~0.6.6"
   },
   "dependencies": {
-      "elastical":"*"
-    , "mongodb":"*"
-    , "request":"*"
-    , "eyes"   :"*"
+      "elastical":"0.0.7"
+    , "mongodb":"0.9.9-4"
+    , "request":"2.9.152"
+    , "eyes"   :"0.1.7"
   },
   "devDependencies": {},
   "optionalDependencies": {}
