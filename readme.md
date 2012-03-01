@@ -19,10 +19,10 @@ so I saved some time there. You can import it by running
 mongorestore -d enron dump/enron-mail
 ```
 
-And as always, running npm install from the root of the project will
-install all the dependencies.
+And as always, running npm install from the root of this project will
+install all the dependencies needed to run it.
 
-Startup elastic search
+Startup elastic search. You also already have mongodb running, don't you?
 
 ## Running It
 First run 
